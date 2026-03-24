@@ -34,7 +34,7 @@ I believe hardware is the foundation of all modern AI and computing.
 <h2>🛠 𝑻𝑬𝑪𝑯 𝑺𝑻𝑨𝑪𝑲</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,arduino,matlab,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,arduino,matlab,github,vscode,xilinx vivado" />
 </p>
 
 <p align="center">
